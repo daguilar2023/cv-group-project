@@ -1,0 +1,12 @@
+# Core (original)
+opencv-python
+mediapipe
+numpy
+
+# Classical ML pipeline
+scikit-learn
+joblib
+
+# Modern / hybrid pipeline
+torch
+torchvision
